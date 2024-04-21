@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokepokeWeb/static/css/main.e01ee041.css",
+    "main.js": "/PokepokeWeb/static/js/main.e12469b7.js",
+    "static/js/453.230d827d.chunk.js": "/PokepokeWeb/static/js/453.230d827d.chunk.js",
+    "index.html": "/PokepokeWeb/index.html",
+    "main.e01ee041.css.map": "/PokepokeWeb/static/css/main.e01ee041.css.map",
+    "main.e12469b7.js.map": "/PokepokeWeb/static/js/main.e12469b7.js.map",
+    "453.230d827d.chunk.js.map": "/PokepokeWeb/static/js/453.230d827d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01ee041.css",
+    "static/js/main.e12469b7.js"
+  ]
+}

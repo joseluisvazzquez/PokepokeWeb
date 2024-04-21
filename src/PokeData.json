@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Skwovet",
+        "id": 1,
+        "weight":"5.5 lbs",
+        "abilities":"Cheek Pouch",
+        
+        "Friendly": true,
+        "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/819.png"
+    },
+    {
+        "name": "Cufant",
+        "id": 2,
+        "weight":"220.5 lbs",
+        "abilities":"Sheer Force",
+        
+        "Friendly": true,
+        "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/878.png"
+      },
+    {
+        "name": "Hattrem",
+        "id": 3,
+        "weight":"10.6 lbs",
+        "abilities":"Anticipation, Healer",
+        
+        "Friendly": false,
+        "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/857.png"
+      },
+    {
+        "name": "Wooloo",
+        "id": 4,
+        "weight":"13.2 lbs",
+        "abilities":"Run Away, Fluffy",
+         
+        "Friendly": true,
+        "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/831.png"
+      },
+    {
+        "name": "Sobble",
+        "id": 5,
+        "weight":"8.8 lbs",
+        "abilities":"Torrent",
+        
+        "Friendly": false,
+        "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/816.png"
+      }
+]
